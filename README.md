@@ -1,2 +1,2 @@
-# dotfles
+# dotfiles
 Personal KDE dotfiles
