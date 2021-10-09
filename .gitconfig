@@ -3,3 +3,5 @@
 	email = casasjuanfelipe@gmail.com
 [init]
 	defaultBranch = main
+[alias]
+	tree = log --all --graph --decorate --oneline
